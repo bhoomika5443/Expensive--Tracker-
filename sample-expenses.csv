@@ -1,0 +1,4 @@
+id,amount,category,date,note
+sample-1,450,Food,2026-11-03,Meals
+sample-2,120,Transport,2026-11-05,Bus
+sample-3,1800,Bills,2026-11-07,Monthly bills
